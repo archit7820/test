@@ -1,0 +1,252 @@
+
+
+// border: 1px dashed #9aa8bc;
+.selfdetailslist{
+   
+    border-radius: 12px;
+    background-color:#fff; 
+    border: 1px solid #9aa8bc;
+    box-sizing: border-box;
+     width: 800px ;
+    
+   
+}
+.selflistdata{
+    margin: 30px ;
+}
+.selfnamefield{
+    border-radius: 5px ;
+    height: 50px ;
+    width : 740px ;
+    background-color:#fff; 
+    border: 1px solid #9aa8bc;
+    margin-bottom: 20px ;
+    margin-top: 5px ;
+   
+}
+.selfdescfield{
+    border-radius: 5px ;
+    height: 50px ;
+    width : 740px ;
+    background-color:#fff; 
+    border: 1px solid #9aa8bc;
+    margin-bottom: 20px ;
+    margin-top: 5px ;
+
+}
+.selftypefield{
+    border-radius: 5px ;
+    height: 50px ;
+    width : 360px ;
+    background-color:#fff; 
+    border: 1px solid #9aa8bc;
+    margin-right: 20px ;
+    margin-bottom: 20px ;
+    margin-top: 5px ;
+
+}
+.selfinputrate{
+    border-radius: 5px ;
+    height: 50px ;
+    width : 300px ;
+    background-color:#fff; 
+    border: 1px solid #9aa8bc;
+    margin-right: 20px ;
+    margin-bottom: 20px ;
+    margin-top: 5px ;
+}
+.selfform{
+    font-family: 'Inter',sans-serif;
+
+    margin-left :  300px ;
+    margin-right: 300px ;
+   
+    margin-bottom: 100px ;
+   
+}
+.selfheadline{
+    font-size: 20px ;
+    margin-top: 20px ;
+    margin-bottom: 100px ;
+    border-bottom: 1px solid #9aa8bc ;
+    font-weight: 500 ;
+    width: 100%; 
+}
+.headlinesstoredetails{
+margin-left: 300px ;
+}
+.selfinfo{
+    font-size:  16px;
+    font-weight: 600 ;
+    color: #1a212b;
+    margin-left: 25px ;
+    margin-top: 20px ;
+}
+.selflistdesc{
+    font-size: 12px ;
+    font-weight: 400;
+    align-self: stretch;
+    line-height: 18px;
+    margin-left: 25px ;
+    margin-bottom: 25px ;
+   
+
+}
+
+
+.selfname1{
+    font-size: 15px; 
+color: #728197;
+font-weight: 500 ;
+}
+.selfdesc1{
+    font-size: 15px; 
+    color: #728197;
+    font-weight: 600 ;
+    
+
+}
+.selftype1{
+    font-size: 15px; 
+    color: #728197;
+    font-weight: 600 ;
+
+}
+.selfdatarate{
+    font-size: 15px; 
+    color: #728197;
+    font-weight: 600 ;
+    margin-bottom: 5px ;
+
+}
+
+
+.selftyperent{
+    display: flex;
+    flex-direction: row ;
+ 
+   
+}
+.selfimgehead{
+    font-size:  16px;
+    font-weight: 600 ;
+    color: #1a212b;
+    margin-top: 20px ;
+    margin-left: 25px ;
+
+}
+.selfimageheaddesc{
+    font-size: 12px ;
+    font-weight: 400;
+    align-self: stretch;
+    line-height: 18px;
+    margin-left: 25px ;
+    margin-bottom: 24px ;
+    
+
+}
+.selfuploadclickme{
+    font-size: 13px ;
+    font-weight: 500;
+    align-self: stretch;
+    line-height: 18px;
+    color:   #136dc7;;
+}
+.selfuploadinstr{
+    font-size: 13px ;
+    font-weight: 400;
+    align-self: stretch;
+    line-height: 18px;
+
+}
+.selfinfoheadbox{
+    border-bottom: 1px solid #cbd4e1;
+  
+}
+.selfimgbox{
+    border-bottom: 1px solid #cbd4e1;
+     
+
+}
+
+
+.selfrateeurosign {
+  
+    background-color:#728197;
+    line-height: 24px;
+    width: 40px;
+    
+    height: 50px ;
+    flex-shrink: 0;
+}
+.eurosign{
+    margin : 14px ;
+}
+.ratevalueinput {
+    flex: 1;
+  
+    line-height: 24px;
+    color: #728197;
+}
+.selfdatarateinput{
+    position: relative;
+    border-radius: 8px;
+    border: 1px solid #9aa8bc;
+    box-sizing: border-box;
+    width: 360px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px ;
+    gap: 16px;
+    text-align: left;
+    font-size: 16px;
+    color: #333;
+  
+}
+
+.selfinputtype{
+    margin  : 14px ;
+}
+.selfinputdesc{
+    margin : 14px ; 
+}
+.selfinputname{
+  margin : 14px ; 
+}
+
+// section2 imgaes 
+
+.selfimgagebox{
+    border-radius: 12px;
+    background-color:#fff; 
+    border: 1px solid #9aa8bc;
+    box-sizing: border-box;
+    margin-top: 50px ;
+    width: 800px ;
+    
+
+}
+.selfimgupload{
+
+}
+.selfuploadbox2{
+    border-radius: 8.66px;
+    background-color: #fff;
+    border: 1px dashed #9aa8bc;
+    box-sizing: border-box;
+    width: 752px;
+    display: flex;
+    margin : 24px ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 32px;
+    gap: 12px;
+
+}
+.selfuploaddesc{
+
+}

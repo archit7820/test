@@ -1,0 +1,26 @@
+.carousel-container {
+    margin : 200px ;
+   width : 100px  ;
+   height:  100px;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Add additional styling for responsiveness */
+  @media screen and (max-width: 768px) {
+    .carousel-container {
+      height: auto;
+    }
+  
+    .carousel-item {
+      height: auto;
+    }
+  }
+  

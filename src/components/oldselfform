@@ -1,0 +1,35 @@
+import React from 'react'
+import "./Form2.scss"
+const Form2 = () => {
+  return (
+ 
+                <div className="selfshelves">
+                      <div className="selfstore">
+                            <div className="selfstoreShelvesParent">
+                                  <div className="selfstoreShelves">Store Shelves</div>
+                                  <div className="selfaddYourShelve1">Add your Shelve listings here </div>
+                            </div>
+                            <div className="selfbutton">
+                                  <div className="selflabel">Add Shelf</div>
+                            </div>
+                      </div>
+                      <div className="selfemptySheets">
+                            <img className="selfemptySheetsChild" alt="" src="https://i.postimg.cc/bNkKQLNK/Group-26780.png" />
+                            <div className="selfemptyShelvesParent">
+                                  <div className="selfemptyShelves">Empty Shelves</div>
+                                  <div className="selfaddYourShelves1">Add your shelves here. The listing here will be directly listed on the platform.</div>
+                            </div>
+                            <div className="selfbutton1">
+                                  <div className="selflabel">Add Shelf</div>
+                            </div>
+                      </div>
+                
+                </div>
+                
+                
+                );
+    };
+    
+
+
+export default Form2
